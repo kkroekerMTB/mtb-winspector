@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Winspector.App/Winspector.App.csproj" />
+  <Project Path="Winspector.Core.Tests/Winspector.Core.Tests.csproj" />
+  <Project Path="Winspector.Core/Winspector.Core.csproj" />
+  <Project Path="Winspector.Windows.Tests/Winspector.Windows.Tests.csproj" />
+  <Project Path="Winspector.WinFormsFixture/Winspector.WinFormsFixture.csproj" />
+</Solution>
